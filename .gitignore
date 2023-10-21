@@ -1,7 +1,10 @@
-# Created by https://www.toptal.com/developers/gitignore/api/python
-# Edit at https://www.toptal.com/developers/gitignore?templates=python
-
-### Python ###
+.vscode
+.idea
+.coverage*
+.DS_Store
+staticfiles
+.envs/*
+!.envs/.local/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
