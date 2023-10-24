@@ -1,0 +1,6 @@
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=lazy-scriptures
+POSTGRES_USER=lazy-scriptures-user
+POSTGRES_PASSWORD=lazy-scriptures-password
+DATABASE_URL=postgres://lazy-scriptures-user:lazy-scriptures-password@postgres:5432/lazy-scriptures
